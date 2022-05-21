@@ -4,6 +4,7 @@ import Home from './pages/Home'
 import AboutMe from './pages/AboutMe';
 import Projects from './pages/Projects';
 import Nav from './components/Nav';
+import Contact from './pages/Contact';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
         <Route path='/aboutme' element={<AboutMe/>}/>
         <Route path='/projects' element={<Projects/>}/>
       </Routes>
+      <Contact/>
     </div>
   );
 }

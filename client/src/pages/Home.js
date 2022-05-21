@@ -3,7 +3,10 @@ const Home = () => {
 
 
     return (
-        <div>home</div>
+        <div>
+            <h1>Ran Kim</h1>
+            <h4>Software Developer</h4>
+        </div>
     )
 }
 
