@@ -1,0 +1,11 @@
+.home-h1 {
+    font-family: 'Reenie Beanie', cursive;
+}
+
+.home-h4 {
+    font-family: 'Gruppo', cursive;
+}
+
+footer {
+    display: flex;
+}

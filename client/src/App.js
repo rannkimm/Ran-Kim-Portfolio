@@ -9,7 +9,7 @@ import Contact from './pages/Contact';
 const App = () => {
   return (
     <div>
-      <Nav/>
+      <Nav />
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/aboutme' element={<AboutMe/>}/>
