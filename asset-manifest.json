@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ran-Kim-Portfolio/static/css/main.cda3a33a.css",
-    "main.js": "/Ran-Kim-Portfolio/static/js/main.562768c3.js",
+    "main.js": "/Ran-Kim-Portfolio/static/js/main.b0541d73.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Ran-Kim-Portfolio/static/js/787.c4e7f8f9.chunk.js",
     "static/media/homepostit.png": "/Ran-Kim-Portfolio/static/media/homepostit.48a54099a64a92c9fb7c.png",
     "static/media/projectspostit.png": "/Ran-Kim-Portfolio/static/media/projectspostit.f47dbbf95a5168a2fba6.png",
@@ -16,11 +16,11 @@
     "static/media/homedecor.png": "/Ran-Kim-Portfolio/static/media/homedecor.0b51c92e5b3e2e9c11a2.png",
     "index.html": "/Ran-Kim-Portfolio/index.html",
     "main.cda3a33a.css.map": "/Ran-Kim-Portfolio/static/css/main.cda3a33a.css.map",
-    "main.562768c3.js.map": "/Ran-Kim-Portfolio/static/js/main.562768c3.js.map",
+    "main.b0541d73.js.map": "/Ran-Kim-Portfolio/static/js/main.b0541d73.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Ran-Kim-Portfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cda3a33a.css",
-    "static/js/main.562768c3.js"
+    "static/js/main.b0541d73.js"
   ]
 }
