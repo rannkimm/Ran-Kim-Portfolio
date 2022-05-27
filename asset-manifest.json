@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ran-Kim-Portfolio/static/css/main.cda3a33a.css",
-    "main.js": "/Ran-Kim-Portfolio/static/js/main.b0541d73.js",
+    "main.css": "/Ran-Kim-Portfolio/static/css/main.c0b98b99.css",
+    "main.js": "/Ran-Kim-Portfolio/static/js/main.7147ab73.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Ran-Kim-Portfolio/static/js/787.c4e7f8f9.chunk.js",
     "static/media/homepostit.png": "/Ran-Kim-Portfolio/static/media/homepostit.48a54099a64a92c9fb7c.png",
     "static/media/projectspostit.png": "/Ran-Kim-Portfolio/static/media/projectspostit.f47dbbf95a5168a2fba6.png",
@@ -13,14 +13,16 @@
     "static/media/mindify.png": "/Ran-Kim-Portfolio/static/media/mindify.598c012b55b373de9b5f.png",
     "static/media/journal.png": "/Ran-Kim-Portfolio/static/media/journal.bd0617437dd69be72478.png",
     "static/media/background.png": "/Ran-Kim-Portfolio/static/media/background.d9cf17abb5bb87a0b562.png",
+    "static/media/tech.png": "/Ran-Kim-Portfolio/static/media/tech.2a3a7963b8fcbdbecf6f.png",
     "static/media/homedecor.png": "/Ran-Kim-Portfolio/static/media/homedecor.0b51c92e5b3e2e9c11a2.png",
+    "static/media/resume.pdf": "/Ran-Kim-Portfolio/static/media/resume.51d2711b915acafa6268.pdf",
     "index.html": "/Ran-Kim-Portfolio/index.html",
-    "main.cda3a33a.css.map": "/Ran-Kim-Portfolio/static/css/main.cda3a33a.css.map",
-    "main.b0541d73.js.map": "/Ran-Kim-Portfolio/static/js/main.b0541d73.js.map",
+    "main.c0b98b99.css.map": "/Ran-Kim-Portfolio/static/css/main.c0b98b99.css.map",
+    "main.7147ab73.js.map": "/Ran-Kim-Portfolio/static/js/main.7147ab73.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Ran-Kim-Portfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cda3a33a.css",
-    "static/js/main.b0541d73.js"
+    "static/css/main.c0b98b99.css",
+    "static/js/main.7147ab73.js"
   ]
 }
