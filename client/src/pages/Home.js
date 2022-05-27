@@ -1,12 +1,12 @@
-
+import HomePage from '../images/homepage.png'
+import HomeDecor from '../images/homedecor.png'
 const Home = () => {
 
 
     return (
-        <div>
-            <h4 className="home-h4">WELCOME TO MY PORTFOLIO</h4>
-            <h1 className="home-h1">Ran Kim</h1>
-            <h4 className="home-h4">SOFTWARE DEVELOPER</h4>
+        <div className='home-div'>
+            <img className='home-image' src={HomePage} alt='homepage' width={600}/>
+            <img className='home-decor' src={HomeDecor} alt='homedecor' width={400}/>
         </div>
     )
 }
