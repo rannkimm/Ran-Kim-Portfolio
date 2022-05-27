@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ran-Kim-Portfolio/static/css/main.cda3a33a.css",
+    "main.js": "/Ran-Kim-Portfolio/static/js/main.562768c3.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Ran-Kim-Portfolio/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/homepostit.png": "/Ran-Kim-Portfolio/static/media/homepostit.48a54099a64a92c9fb7c.png",
+    "static/media/projectspostit.png": "/Ran-Kim-Portfolio/static/media/projectspostit.f47dbbf95a5168a2fba6.png",
+    "static/media/aboutmepostit.png": "/Ran-Kim-Portfolio/static/media/aboutmepostit.49fdd1c1a75d0cbb7377.png",
+    "static/media/aboutme.png": "/Ran-Kim-Portfolio/static/media/aboutme.c98bd308021c0e476afe.png",
+    "static/media/battleship.png": "/Ran-Kim-Portfolio/static/media/battleship.ae2fb2c713a82c8ecbfd.png",
+    "static/media/homepage.png": "/Ran-Kim-Portfolio/static/media/homepage.bbf0cc42714984c7c379.png",
+    "static/media/contactme.png": "/Ran-Kim-Portfolio/static/media/contactme.40104239f0ffa12c6db1.png",
+    "static/media/mindify.png": "/Ran-Kim-Portfolio/static/media/mindify.598c012b55b373de9b5f.png",
+    "static/media/journal.png": "/Ran-Kim-Portfolio/static/media/journal.bd0617437dd69be72478.png",
+    "static/media/background.png": "/Ran-Kim-Portfolio/static/media/background.d9cf17abb5bb87a0b562.png",
+    "static/media/homedecor.png": "/Ran-Kim-Portfolio/static/media/homedecor.0b51c92e5b3e2e9c11a2.png",
+    "index.html": "/Ran-Kim-Portfolio/index.html",
+    "main.cda3a33a.css.map": "/Ran-Kim-Portfolio/static/css/main.cda3a33a.css.map",
+    "main.562768c3.js.map": "/Ran-Kim-Portfolio/static/js/main.562768c3.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Ran-Kim-Portfolio/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cda3a33a.css",
+    "static/js/main.562768c3.js"
+  ]
+}
