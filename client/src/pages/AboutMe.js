@@ -6,11 +6,11 @@ const AboutMe = () => {
     return (
         <div className='aboutme-div'>
             <div className='resume-div'>
-                <img src={AboutMeImg} alt="aboutme" width={600}/>
-                <a href={Resume}>Resume</a>
+                <img className='aboutme-img' src={AboutMeImg} alt="aboutme" width={600}/>
+                <a className='resume-link' href={Resume}>Resume</a>
             </div>
             <div className='techimg-div'>
-                <img src={TechImg} alt="aboutme" width={250}/>
+                <img className='tech-img' src={TechImg} alt="aboutme" width={250}/>
                 
             </div>
         </div>

@@ -99,3 +99,80 @@ footer {
     top: 35%;
     left: 20%;
 }
+
+@media only screen and (max-width: 600px){
+    .app-div {
+        display: flex;
+        flex-direction: column;
+    }
+    .nav {
+        width: 100px;
+    }
+    .nav-div {
+        justify-content: center;
+        z-index: 2;
+    }
+
+    .home-div {
+        z-index: 1;
+        height: 230px;
+    }
+
+    .home-image {
+        width: 250px;
+        margin: auto;
+        
+    }
+
+    .home-decor {
+        position: relative;
+        width: 200px;
+        top: 22%;
+        right: 53%;
+    }
+
+    .contact-img {
+
+        width: 200px;
+    }
+
+
+    /* .git-link {
+        z-index: 2;
+        position: relative;
+        right: 40%;
+    } 
+
+    .linkedin-link {
+        z-index: 5;
+        position: relative;
+        right: 35%;
+    }  */
+
+    .aboutme-div {
+        height: 300px;
+
+    }
+
+    .resume-link {
+        position: relative;
+        left: 10%;
+    }
+
+    .aboutme-img {
+        width: 300px;
+    }
+
+    .tech-img {
+        width: 160px;
+        position: relative;
+        top: -20%;
+        left: -25%;
+
+    }
+
+    .projects-div {
+        display: flex;
+        flex-direction: column;
+    }
+  }
